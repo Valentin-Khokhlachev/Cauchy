@@ -1,0 +1,1 @@
+t = linspace(a, b, N).';

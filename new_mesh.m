@@ -1,0 +1,1 @@
+t_new = linspace(a, b, 3 * N).';
